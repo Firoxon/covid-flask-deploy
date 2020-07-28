@@ -42,4 +42,3 @@ gunicorn
 flask
 tensorflow==1.15.2
 matplotlib
-cv2
