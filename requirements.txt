@@ -41,6 +41,5 @@ wrapt==1.12.1
 gunicorn
 flask
 tensorflow==1.15.2
-tensorflow.keras.models
 matplotlib.pyplot
 cv2
