@@ -41,3 +41,8 @@ wrapt==1.12.1
 gunicorn
 flask
 tensorflow==1.15
+werkzeug.utils
+tensorflow.keras.models
+matplotlib.pyplot
+cv2
+numpy
