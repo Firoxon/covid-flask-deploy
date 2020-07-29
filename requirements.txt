@@ -15,8 +15,8 @@ Keras-Preprocessing==1.1.2
 Markdown==3.2.2
 numpy==1.19.0
 oauthlib==3.1.0
-opencv-contrib-python
-opencv-python
+opencv-contrib-python==3.3.0.9
+opencv-python==3.3.0.9
 opt-einsum==3.2.1
 pandas==1.0.5
 protobuf==3.12.2
