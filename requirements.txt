@@ -40,5 +40,5 @@ Werkzeug==1.0.1
 wrapt==1.12.1
 gunicorn
 flask
-tensorflow==1.15.2
+tensorflow==2.9.3
 matplotlib
